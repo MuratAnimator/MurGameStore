@@ -1,2 +1,2 @@
 # MurGameStore
-mgs
+This is Game store. idk :)
